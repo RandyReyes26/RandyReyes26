@@ -7,7 +7,7 @@
 
 - 🌱 Aprendiendo sobre **Desarrollo Web**
 
-- 👯 Buscando colaborar en **proyectos de código abierto y startups tecnológicas**
+- ✌️ Buscando colaborar en **proyectos de código abierto y startups tecnológicas**
 
 - 💬 Pregúntame sobre **desarrollo web, automatización y buenas prácticas de programación**
 
