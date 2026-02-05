@@ -29,10 +29,5 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-
----
-
----
 
