@@ -26,3 +26,7 @@
 ![.NET](https://img.shields.io/badge/.net-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
 
 
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
