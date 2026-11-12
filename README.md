@@ -4,11 +4,12 @@
 <!-- ## mi presentación -->
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-👨‍🎓 Software Engineering student focused on building practical and well-structured applications.  
-💻 Interested in web development, backend logic, and clean, maintainable code.  
-🧠 I enjoy learning by building projects and turning ideas into working solutions.  
-🛠️ Experience with technologies like C#, .NET, Java, JavaScript, PHP, and relational databases.  
-🚀 Always improving my skills and looking for new challenges to grow as a developer.
+👨‍🎓 Software Engineering student at UTN (Costa Rica), graduating soon.  
+💻 Full-stack developer building web apps with JavaScript, C#/.NET, Java, PHP and SQL (SQL Server & MySQL).  
+🚀 Founder of **3R Devs**, a freelance web development brand where I build real projects for real clients.  
+🧠 I like clean, maintainable code and turning ideas into working products.  
+🌱 Currently looking for a junior software developer role where I can keep growing.  
+🌎 Based in Costa Rica · Spanish (native) · English (B2)
 
 
 
